@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a seasoned Senior Frontend Developer with a passion for creating captivating and efficient web applications. With a solid background in Information Systems and a degree from São Judas Tadeu University, my journey in the development world began.
+I'm a seasoned Senior Frontend Developer with a passion for creating captivating and efficient web applications. With a solid background in Information Systems and a degree from São Judas Tadeu University.
 
 # 🚀 Expertise
 
