@@ -18,7 +18,6 @@ As a firm believer in continuous improvement, I'm always eager to explore new ho
 
 # 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzoglauber&theme=dracula&hide_border=false"  width="400" />
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=enzoglauber&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="364" />
 
   ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=enzoglauber&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
