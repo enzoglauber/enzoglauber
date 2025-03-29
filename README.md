@@ -4,7 +4,7 @@ I'm a seasoned Senior Frontend Engineer with a passion for creating captivating 
 
 # 🚀 Expertise
 
-Over the last 11 years, I've honed my skills in the financial and energy sectors, crafting innovative solutions using cutting-edge technologies like React, Angular 14+, Redux, Nest, and Next. You'll often find me preprocessing CSS with SASS/LESS and expertly organizing it with BEM and OOCSS, ensuring our projects are not only visually stunning but also maintainable and scalable.
+Over the last 15 years, I've honed my skills in the financial and energy sectors, crafting innovative solutions using cutting-edge technologies like React, Angular 14+, Redux, Nest, and Next. You'll often find me preprocessing CSS with SASS/LESS and expertly organizing it with BEM and OOCSS, ensuring our projects are not only visually stunning but also maintainable and scalable.
 
 But that's not all! My expertise extends to the realm of API development, where I've mastered the art of creating robust and efficient APIs with both REST and GraphQL. With Agile methodologies like Scrum and Kanban as my guiding principles, I bring a seamless and collaborative approach to every project.
 
